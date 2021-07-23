@@ -1,0 +1,17 @@
+{
+  "name": "avengers-unit-client",
+  "version": "1.0.0",
+  "description": "A project of Avengers Unit",
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "vuepress build src",
+    "docs:clean-dev": "vuepress dev src --no-cache",
+    "docs:dev": "vuepress dev src",
+    "docs:eject-theme": "vuepress eject-hope src"
+  },
+  "devDependencies": {
+    "@mr-hope/vuepress-plugin-pwa": "^1.18.2",
+    "vuepress": "^1.8.2",
+    "vuepress-theme-hope": "^1.19.0"
+  }
+}
