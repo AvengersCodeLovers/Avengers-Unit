@@ -29,6 +29,7 @@ author: Duong Trung Hieu
 
 - Góc trên bên phải màn hình tích chọn vào 
 <strong>"Developer mode "</strong>
+
 ![image](https://user-images.githubusercontent.com/55786352/111410241-f7b21d00-870a-11eb-9760-eef59173cdc3.png)
 
 - Chọn "Load unpacked" và chọn tới thư mục vừa giải nén ở trên
