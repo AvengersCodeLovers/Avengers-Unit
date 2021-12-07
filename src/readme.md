@@ -22,6 +22,10 @@ features:
   - title: Remind Pull Request ✅
     details: Hỗ trợ việc gửi message review pull nhanh chóng, dễ dàng, tiện lợi
     link: /products/remind-pull-request
+  
+  - title: Shorten Link - SAL ✅
+    details: Hỗ trợ việc rút gọn URL khiến thân thiện hơn với người dùng.
+    link: https://sal.vn
 
 copyrightText: false
 footer: MIT Licensed | Copyright © 2021 - Avengers Unit
