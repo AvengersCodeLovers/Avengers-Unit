@@ -1,0 +1,209 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Avengers Unit",
+  "home_page_url": "https://avengers-unit.com/",
+  "feed_url": "https://avengers-unit.com/feed.json",
+  "description": "Nơi lưu trữ các bài viết kỹ thuật, quy trình, các seminar của các thành viên trong Unit",
+  "author": {
+    "name": "Avengers Unit"
+  },
+  "items": [
+    {
+      "title": "Blog Home",
+      "url": "https://avengers-unit.com/content/",
+      "id": "https://avengers-unit.com/content/",
+      "content_html": "",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "CI CD với Github Actions",
+      "url": "https://avengers-unit.com/posts/ci-cd-github-actions/",
+      "id": "https://avengers-unit.com/posts/ci-cd-github-actions/",
+      "content_html": "<h1 id=\"ci-cd-voi-github-actions\"> CI/CD với Github Actions</h1>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/107243997-20862900-6a60-11eb-9cd7-5689d9c64bf4.png\" alt=\"image\" /></p>\n<h2 id=\"presenter\"> Presenter</h2>\n<ul>\n<li>Dương Trung Hiếu</li>\n</ul>\n<h2 id=\"muc-tieu\"> Mục tiêu</h2>\n<ul>\n<li>Bạn là Backend Developer chắc chắn đã nghe qua khái niệm DevOps, hoặc lơ mơ về CI/CD không hiểu nó là gì ?</li>\n<li>Bạn đã từng setup server và deploy lên đó , nhưng mỗi khi chạy thư việc hay tạo dữ liệu là code của bạn sẽ bị lỗi tùm lum ?</li>\n<li>Bạn đã từng bị member hoặc PM của mình chửi lên chửi xuống vì mấy cái lỗi vặt vãnh như convention hoặc test fail ?</li>\n<li>Bạn đang không hiểu cách nào mà những dự án triệu đô triển khai những feature mới của họ trên môi trường production mà không bao giờ bị lỗi ?</li>\n<li>Hay bạn đã từng được sờ mò vào con SunCI nhưng không biết nó để làm cái gì và setup nó như thế nào ?\nvà hàng nghìn lý do khác nữa</li>\n</ul>\n<h2 id=\"tai-lieu\"> Tài liệu</h2>\n<ul>\n<li>Slide <a href=\"https://docs.google.com/presentation/d/11-DQsveNe449W3lhNmcGqqhf1R5i9Q_KV19bPvoKoOU/edit#slide=id.p\" target=\"_blank\" rel=\"noopener noreferrer\">CI/CD</a></li>\n<li>Document <a href=\"https://github.com/hieudt-2054/Researching/wiki/%5BDevOps%5D-Github-Action\" target=\"_blank\" rel=\"noopener noreferrer\">Github Action</a></li>\n<li>Viblo <a href=\"https://viblo.asia/p/devops-cicd-cung-circleci-va-deployer-cho-du-an-laravel-gDVK2mGn5Lj\" target=\"_blank\" rel=\"noopener noreferrer\">CI/CD cùng Circle CI và Deployer Laravel</a></li>\n</ul>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/107243997-20862900-6a60-11eb-9cd7-5689d9c64bf4.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": [
+        "Seminar"
+      ]
+    },
+    {
+      "title": "Deploy Server and Deployer",
+      "url": "https://avengers-unit.com/posts/deployer-laravel/",
+      "id": "https://avengers-unit.com/posts/deployer-laravel/",
+      "content_html": "<h1 id=\"deploy-server-and-deployer\"> Deploy Server and Deployer</h1>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/107244108-401d5180-6a60-11eb-9144-c3047a22fe57.png\" alt=\"image\" /></p>\n<h2 id=\"presenter\"> Presenter</h2>\n<ul>\n<li>Trần Quang Hiệp</li>\n<li>Nguyễn Thế Quý</li>\n<li>Nguyễn Tiến Quân</li>\n</ul>\n<h2 id=\"muc-tieu\"> Mục tiêu</h2>\n<ul>\n<li>Deploy project lên server Ubuntu</li>\n<li>Deploy project sử dụng deployer.</li>\n</ul>\n<h2 id=\"tai-lieu\"> Tài liệu</h2>\n<ul>\n<li>Slide <a href=\"https://docs.google.com/presentation/d/1HhzgZg_YUv0Nmb4PEFToevSRcNItMKa4VtQMYeReWcw/edit#slide=id.p\" target=\"_blank\" rel=\"noopener noreferrer\">Deploy Server và những điều cần biết</a></li>\n</ul>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/107244108-401d5180-6a60-11eb-9144-c3047a22fe57.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": [
+        "Seminar"
+      ]
+    },
+    {
+      "title": "Git Flow",
+      "url": "https://avengers-unit.com/posts/git-flow/",
+      "id": "https://avengers-unit.com/posts/git-flow/",
+      "content_html": "<h1 id=\"git-awesome-flow\"> Git Awesome Flow</h1>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/107244191-55927b80-6a60-11eb-9023-026fcf650d64.png\" alt=\"image\" /></p>\n<h2 id=\"presenter\"> Presenter</h2>\n<ul>\n<li>Nguyễn Xuân Hướng</li>\n</ul>\n<h2 id=\"muc-tieu\"> Mục tiêu</h2>\n<ul>\n<li>\n<p>Nhận thấy trong buổi seminar của UNIT 1  về NEW GIT FEATURE FLOW diễn ra vào cuối tháng 8 vừa rồi. Thời gian trao đổi quá ít trong khi các câu hỏi được đưa ra thảo luận rất nhiều. Đâu có vẫn còn nhiều thắc mắc chưa được giải đáp, những câu hỏi vẫn chưa được thảo luận và biết đâu còn những case study của chính dự án của mọi người tham gia vẫn chưa được đề cập tới.</p>\n</li>\n<li>\n<p>Trên tinh thần &quot;Share to be Shared&quot;. Mình mạnh dạn book phòng và thời gian tổ chức 1 buổi seminar nho nhỏ để chia sẻ và thảo luận cùng anh em trong Group Avenger. Vậy kính mời anh chị em bạn dì sắp xếp thời gian tham gia buổi seminar &quot;New Git Feature Flow&quot; cùng mình nhé</p>\n</li>\n</ul>\n<h2 id=\"tai-lieu\"> Tài liệu</h2>\n<ul>\n<li>Slide <a href=\"https://docs.google.com/presentation/d/1IlukqKO87kERmzm91yUHmFW8Ve4HlmGu/edit#slide=id.p1\" target=\"_blank\" rel=\"noopener noreferrer\">Git Awesome Flow</a></li>\n</ul>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/107244191-55927b80-6a60-11eb-9023-026fcf650d64.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": [
+        "Seminar"
+      ]
+    },
+    {
+      "title": "Laravel caching everything",
+      "url": "https://avengers-unit.com/posts/laravel-cache/",
+      "id": "https://avengers-unit.com/posts/laravel-cache/",
+      "content_html": "<h1 id=\"laravel-caching-everything\"> Laravel caching everything</h1>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/107244258-68a54b80-6a60-11eb-8f1c-649d81b25458.png\" alt=\"image\" /></p>\n<h2 id=\"presenter\"> Presenter</h2>\n<ul>\n<li>Nguyễn Hữu Sử</li>\n</ul>\n<h2 id=\"muc-tieu\"> Mục tiêu</h2>\n<ul>\n<li>Trên tinh thần &quot;share to be shared&quot;. Team nhền nhện có một buổi chia sẻ nhỏ về kiến thức Laravel cơ bản. Với mục đích chia sẻ KHÔNG phải để hoàn thành OKR. Vì vậy có anh em nào đã từng làm việc với Laravel, rảnh rỗi trong khung giờ diễn ra seminar thì có thể tham dự</li>\n</ul>\n<h2 id=\"tai-lieu\"> Tài liệu</h2>\n<ul>\n<li>Slide <a href=\"https://docs.google.com/presentation/d/1NDOvTcXEo9-oysjmxho8YGgflTFezzocQQ16SjObRag/edit#slide=id.g578dcad9b9_0_5\" target=\"_blank\" rel=\"noopener noreferrer\">Laravel Caching Everything</a></li>\n<li>Viblo <a href=\"https://viblo.asia/p/laravel-caching-everything-gAm5yDwVldb\" target=\"_blank\" rel=\"noopener noreferrer\">Laravel Caching Everything</a></li>\n</ul>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/107244258-68a54b80-6a60-11eb-8f1c-649d81b25458.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": [
+        "Seminar"
+      ]
+    },
+    {
+      "title": "OKR Training",
+      "url": "https://avengers-unit.com/posts/okr-training/",
+      "id": "https://avengers-unit.com/posts/okr-training/",
+      "content_html": "<h1 id=\"okr-training\"> OKR Training</h1>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/107243756-eb79d680-6a5f-11eb-8e21-1d2e89aa0590.png\" alt=\"image\" /></p>\n<h2 id=\"presenter\"> Presenter</h2>\n<ul>\n<li>Nguyễn Thanh Tùng D</li>\n</ul>\n<h2 id=\"muc-tieu\"> Mục tiêu</h2>\n<ul>\n<li>Đảm bảo ae có thể hiểu cơ bản về OKR và nắm được OKR của Sun*, cũng như Unit của mình</li>\n<li>Setup được OKR cho bản thân mình và submit lên hệ thống <a href=\"https://goal.sun-asterisk.vn/\" target=\"_blank\" rel=\"noopener noreferrer\">S*Goal</a></li>\n</ul>\n<h2 id=\"tai-lieu\"> Tài liệu</h2>\n<ul>\n<li>Slide <a href=\"https://docs.google.com/presentation/d/1WdCMHHgLWH3uI47Nxn3fbelopdz3JMWbTwTFAZQNj_M/edit#slide=id.g8178b715ed_0_0\" target=\"_blank\" rel=\"noopener noreferrer\">Ứng dụng OKR trong doanh nghiệp</a></li>\n<li>Slide <a href=\"https://docs.google.com/presentation/d/1sQ3eHX-AQqrq-6vsB7I-NCS_BfHCBI82H0pCOcM3VQY/edit#slide=id.g7552cb27ee_1_115\" target=\"_blank\" rel=\"noopener noreferrer\">Common OKR Mistakes</a></li>\n<li>Course <a href=\"https://fitm.sun-asterisk.vn/courses/70/topics/3/lessons/6\" target=\"_blank\" rel=\"noopener noreferrer\">Beginer's Guide to OKR</a></li>\n</ul>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/107243756-eb79d680-6a5f-11eb-8e21-1d2e89aa0590.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": [
+        "Seminar"
+      ]
+    },
+    {
+      "title": "Q&A như thế nào cho hiệu quả",
+      "url": "https://avengers-unit.com/posts/qa-hieu-qua/",
+      "id": "https://avengers-unit.com/posts/qa-hieu-qua/",
+      "content_html": "<h1 id=\"q-a-nhu-the-nao-cho-hieu-qua\"> Q&amp;A như thế nào cho hiệu quả</h1>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/107244310-76f36780-6a60-11eb-91d8-1e06db1858a7.png\" alt=\"image\" /></p>\n<h2 id=\"presenter\"> Presenter</h2>\n<ul>\n<li>Nguyễn Văn Hiếu</li>\n</ul>\n<h2 id=\"muc-tieu\"> Mục tiêu</h2>\n<ul>\n<li>Nhận thấy đây là vấn đề chung có thể các anh chị em khác trong group cũng đang mắc phải nên Hiếu đã chỉnh sửa thông tin slide cho phù hợp và chia sẻ lại cho mọi người có thể cải thiện kỹ năng Q&amp;A trong dự án.</li>\n</ul>\n<h2 id=\"tai-lieu\"> Tài liệu</h2>\n<ul>\n<li>Slide <a href=\"https://docs.google.com/presentation/d/1KxH8a6EF6d4Iw-5vEJjihgwUIlMSSI3v3qmluFFXsHU/edit#slide=id.g578dcad9b9_0_5\" target=\"_blank\" rel=\"noopener noreferrer\">Q&amp;A Improvement</a></li>\n</ul>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/107244310-76f36780-6a60-11eb-91d8-1e06db1858a7.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": [
+        "Seminar"
+      ]
+    },
+    {
+      "title": "Scale Up Monolithic Architecture",
+      "url": "https://avengers-unit.com/posts/scale-up-monolithic/",
+      "id": "https://avengers-unit.com/posts/scale-up-monolithic/",
+      "content_html": "<h1 id=\"scale-up-monolithic-architecture\"> Scale Up Monolithic Architecture</h1>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/107244369-85da1a00-6a60-11eb-8e0f-a7b5644a45e1.png\" alt=\"image\" /></p>\n<h2 id=\"presenter\"> Presenter</h2>\n<ul>\n<li>Dương Trung Hiếu</li>\n</ul>\n<h2 id=\"muc-tieu\"> Mục tiêu</h2>\n<ul>\n<li>Nó là 1 kiểu kiến trúc MONOLITHIC ARCHITECTURE, dạo gần đây hệ thống đó hay bị quá tải và timeout nguyên nhân thì nhiều vô kể nào là người dùng request nhiều, thi thoảng hot fix thì hệ thống lại bị down và ảnh hưởng ít nhiều tới lợi nhuận, tôi chợt nghĩ rằng Nếu như hệ thống của tôi chạy được đa nhiệm và luôn uptime 99% thì tốt nhỉ ?</li>\n</ul>\n<p>Và tôi đã nghiên cứu và tìm kiếm một vài góc nhìn mới kiểu</p>\n<ul>\n<li>Load balancer</li>\n<li>Zero downtime deployment with Cluster</li>\n<li>High availability</li>\n<li>Services Discovery</li>\n<li>Thanks to Docker, Containers Are Everywhere</li>\n</ul>\n<h2 id=\"tai-lieu\"> Tài liệu</h2>\n<ul>\n<li>Slide <a href=\"https://docs.google.com/presentation/u/4/d/1Xc6iSTx5g1q3Few18-Gh061tcbkR_lwEnorHwE6ofwc/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">Avengers Seminar: Scale up monolithic</a></li>\n<li>Demo Source code <a href=\"https://github.com/AvengersCodeLovers/Demo-docker-swarm\" target=\"_blank\" rel=\"noopener noreferrer\">Demo-docker-swarm</a></li>\n</ul>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/107244369-85da1a00-6a60-11eb-8e0f-a7b5644a45e1.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": [
+        "Seminar"
+      ]
+    },
+    {
+      "title": "Nginx Log Monitoring",
+      "url": "https://avengers-unit.com/products/nginx-log/",
+      "id": "https://avengers-unit.com/products/nginx-log/",
+      "content_html": "<h1 id=\"nginx-log-monitoring\"> Nginx Log Monitoring</h1>\n<ul>\n<li>Sản phẩm hỗ trợ tracking nginx log và được bắn message về chatwork</li>\n<li>Github repo: <a href=\"https://github.com/AvengersCodeLovers/nginx-log-monitoring\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/AvengersCodeLovers/nginx-log-monitoring</a></li>\n</ul>\n<h2 id=\"requirements\"> Requirements</h2>\n<ul>\n<li>Nodejs 8.10x</li>\n</ul>\n<h2 id=\"getting-started\"> Getting Started</h2>\n<ul>\n<li>Clone project and run test</li>\n</ul>\n<div><pre><code>$ <span>git</span> clone https://git_url_clone <span>&lt;</span>project_dir<span>></span>\n$ <span>cd</span> <span>&lt;</span>project_dir<span>></span>\n$ <span>npm</span> <span>install</span>\n$ <span>npm</span> run <span>test</span>\n</code></pre>\n<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><ul>\n<li>Copy sh/env.example.sh to sh/env.sh.</li>\n</ul>\n<div><pre><code>$ <span>cd</span> <span>&lt;</span>project_dir<span>></span>\n$ <span>cp</span> env.example.sh env.sh\n</code></pre>\n<div><span>1</span><br><span>2</span><br></div></div><ul>\n<li>Edit file env.sh by yourself and run command below to initialization environment variable.</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NGINX_LOG_FILE</td>\n<td>Path to nginx log file</td>\n</tr>\n<tr>\n<td>MYSQL_LOG_FILE</td>\n<td>Path to mysql log file</td>\n</tr>\n<tr>\n<td>ENV</td>\n<td>env name. ex: stg, pro, dev,...</td>\n</tr>\n<tr>\n<td>MANAGERS</td>\n<td>Chatwork IDs. ex: [To:xxx]</td>\n</tr>\n<tr>\n<td>CW_ROOM_ID</td>\n<td>Chatwork room ID</td>\n</tr>\n<tr>\n<td>CW_API_URL</td>\n<td>Chatwork API URL</td>\n</tr>\n<tr>\n<td>CW_BOT_TOKEN</td>\n<td>Chatwork API KEY</td>\n</tr>\n</tbody>\n</table>\n<div><pre><code>$ <span>cd</span> <span>&lt;</span>project_dir<span>></span>\n$ <span>source</span> sh/env.sh\n</code></pre>\n<div><span>1</span><br><span>2</span><br></div></div><ul>\n<li>Run project</li>\n</ul>\n<div><pre><code>$ <span>cd</span> <span>&lt;</span>project_dir<span>></span>\n$ node src/index.js\n</code></pre>\n<div><span>1</span><br><span>2</span><br></div></div>",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Nguyen Huu Su"
+        }
+      ],
+      "tags": [
+        "Product"
+      ]
+    },
+    {
+      "title": "Push Goal - Cập nhật OKR nhanh chóng",
+      "url": "https://avengers-unit.com/products/push-goal/",
+      "id": "https://avengers-unit.com/products/push-goal/",
+      "content_html": "<h1 id=\"pushgoal\"> PushGoal</h1>\n<ul>\n<li>Sản phẩm hỗ trợ việc cập nhật OKR nhanh chóng ngay trên browser</li>\n<li>Github repo: <a href=\"https://github.com/RootOfGenius/PushGoal\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/RootOfGenius/PushGoal</a></li>\n<li>Tương thích: Chrome Browser</li>\n</ul>\n<h2 id=\"cai-đat\"> Cài đặt</h2>\n<ul>\n<li>\n<p>Tiến hành truy cập releases trên repo tại URL: <a href=\"https://sal.vn/7JMVM6\" target=\"_blank\" rel=\"noopener noreferrer\">https://sal.vn/7JMVM6</a></p>\n</li>\n<li>\n<p>Tải phiên bản mới nhất hiện tại là v1.2.5</p>\n</li>\n</ul>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/111409972-79ee1180-870a-11eb-86b8-af83f01eeb9d.png\" alt=\"image\" /></p>\n<ul>\n<li>Tiến hành tải về và giải nén ra được thư mục <strong>PushGoal-v1.2.5-production</strong></li>\n</ul>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/111410106-b6217200-870a-11eb-8bbe-8a9f975ab11c.png\" alt=\"image\" /></p>\n<ul>\n<li>\n<p>Từ Chrome browser truy cập vào đường dẫn <strong>chrome://extensions/</strong></p>\n</li>\n<li>\n<p>Góc trên bên phải màn hình tích chọn vào\n<strong>&quot;Developer mode &quot;</strong></p>\n</li>\n</ul>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/111410241-f7b21d00-870a-11eb-9760-eef59173cdc3.png\" alt=\"image\" /></p>\n<ul>\n<li>Chọn &quot;Load unpacked&quot; và chọn tới thư mục vừa giải nén ở trên</li>\n</ul>\n<h2 id=\"su-dung\"> Sử dụng</h2>\n<ul>\n<li>Click vào icon OKR hiện lên sau khi load unpacked</li>\n</ul>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/111410418-4c559800-870b-11eb-8cea-0f68b4e94b02.png\" alt=\"image\" /></p>\n<ul>\n<li>\n<p>Hiện tại PushGoal hỗ trợ 2 phương thức đăng nhập:</p>\n<ul>\n<li>Dùng account wsm login trực tiếp ( Extension sẽ không lưu trữ thông tin tài khoản của người dùng )</li>\n<li>Tại trình duyệt đó đã đăng nhập vào SGoal thì có thể click vào &quot;Đăng nhập với SGoal chỉ với 1 click&quot;</li>\n</ul>\n</li>\n<li>\n<p>Với phương thức đăng nhập thứ 2, chúng ta sẽ có nhược điểm là thường xuyên phải refresh lại token bằng cách log lại vào trang sgoal vì cơ chế là sử dụng Cookie.</p>\n</li>\n<li>\n<p>Sau khi đăng nhập chúng ta có thể thấy các objectives của bản thân trong quý hiện tại và có thể tiến hành cập nhật 1 cách nhanh chóng nhất</p>\n</li>\n</ul>\n<p><img src=\"https://user-images.githubusercontent.com/55786352/111410785-f59c8e00-870b-11eb-9680-b0ca824281a1.png\" alt=\"image\" /></p>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/111409972-79ee1180-870a-11eb-86b8-af83f01eeb9d.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Duong Trung Hieu"
+        }
+      ],
+      "tags": [
+        "Product"
+      ]
+    },
+    {
+      "title": "Remind Pull Request",
+      "url": "https://avengers-unit.com/products/remind-pull-request/",
+      "id": "https://avengers-unit.com/products/remind-pull-request/",
+      "content_html": "<h1 id=\"remind-pull-request\"> Remind Pull Request</h1>\n<ul>\n<li>Sản phẩm hỗ trợ việc gửi message review pull: nhanh chóng, dễ dàng, tiện lợi</li>\n<li>Github repo: <a href=\"https://github.com/hieudt-2054/p2r\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/hieudt-2054/p2r</a></li>\n<li>Tương thích: Chrome Browser</li>\n</ul>\n<h2 id=\"cai-đat\"> Cài đặt</h2>\n<ul>\n<li>\n<p>Tiến hành cài đặt extension tại URL: <a href=\"https://sal.vn/LIwD2L\" target=\"_blank\" rel=\"noopener noreferrer\">https://sal.vn/LIwD2L</a></p>\n</li>\n<li>\n<p>Click vào biểu tượng extension vừa cài đặt, chọn &quot;cấu hình&quot;\n<img src=\"https://user-images.githubusercontent.com/55786352/108147724-fe487700-7101-11eb-9835-dda3f8f20469.png\" alt=\"image\" /></p>\n</li>\n<li>\n<p>Đầu tiên chúng ta cần add API Bot ( Chatwork ) tại phần &quot;Quản lý BOT&quot;\n<img src=\"https://user-images.githubusercontent.com/55786352/108147781-1e783600-7102-11eb-9b33-4822b0b1b378.png\" alt=\"image\" /></p>\n</li>\n<li>\n<p>Sau đó chúng ta sẽ tạo template message tại phần &quot;Quản lý message&quot;\n<img src=\"https://user-images.githubusercontent.com/55786352/108147861-4071b880-7102-11eb-9492-9e0e1dba21cd.png\" alt=\"image\" /></p>\n</li>\n<li>\n<p>Lưu ý phần message sẽ có 2 variable là {url} và {title}\nTrong quá trình gửi Pull Request người dùng sẽ thao tác từ Pull URL đó\n<img src=\"https://i.ibb.co/r257NBS/new.png\" alt=\"image\" /></p>\n</li>\n</ul>\n",
+      "image": "https://user-images.githubusercontent.com/55786352/108147724-fe487700-7101-11eb-9835-dda3f8f20469.png",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Duong Trung Hieu"
+        }
+      ],
+      "tags": [
+        "Product"
+      ]
+    },
+    {
+      "title": "Project home",
+      "url": "https://avengers-unit.com/",
+      "id": "https://avengers-unit.com/",
+      "content_html": "\n\n",
+      "date_published": "2021-12-07T11:58:53.000Z",
+      "date_modified": "2021-12-07T11:58:53.000Z",
+      "authors": [
+        {
+          "name": "Avengers Unit"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
